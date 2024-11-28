@@ -1,7 +1,7 @@
 # odin-recipes
 following tutorial from https://www.theodinproject.com/lessons/foundations-recipes
 
-<code>
+
 <p>
 Iteration 1: initial structure
 Within the odin-recipes directory, create an index.html file.
@@ -13,7 +13,9 @@ Iteration 2: recipe page
 Create a new directory within the odin-recipes directory and name it recipes.
 Create a new HTML file within the recipes directory and name it after the recipe it will contain. For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use at Allrecipes. Be sure to include the usual boilerplate HTML. This boilerplate code should be in every .html file you create.
 For now, just include an h1 heading with the recipe’s name as its content.
+<code>
 Back in the index.html file, add a link to the recipe page you just created. Example: "Under the <h1>Odin Recipes</h1> heading, write out the link like so: <a href="recipes/recipename.html">Recipe Title</a>". The text of the link should again be the recipe name.
+</code>
 </p>
 
 <p>
@@ -35,5 +37,3 @@ Iteration 4: add more recipes
 Add two more recipes with identical page structures to the recipe page you’ve already created.
 Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
 </p>
-
-</code>
